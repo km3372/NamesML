@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "0a8425f95f7f7be89676666bcc43e248"
+build_time: [1557521039, 564932000]
+inputs:
+  "/Users/kennethmoody/Desktop/NamesML/NamesML/ViewController.swift": !dirty [1557520741, 294315611]
+  "/Users/kennethmoody/Desktop/NamesML/NamesML/AppDelegate.swift": !dirty [1504221820, 0]
+  "/Users/kennethmoody/Desktop/NamesML/DerivedData/Build/Intermediates.noindex/NamesML.build/Debug-iphonesimulator/NamesML.build/DerivedSources/CoreMLGenerated/GenderByName/GenderByName.swift": !dirty [1557521039, 552442342]
